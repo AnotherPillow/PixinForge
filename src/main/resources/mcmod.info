@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "PixinForge",
+    "description": "Pixin port to 1.8 Forge",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/AnotherPillow/PixinForge",
+    "updateUrl": "",
+    "authorList": [
+      "AnotherPillow"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
