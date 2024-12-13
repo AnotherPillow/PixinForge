@@ -6,7 +6,7 @@ This is a (1.8) forge port of [Pixin](https://github.com/AnotherPillow/Pixin). I
 
 ## Usage
 
-1. Install Essential & PixinForge
+1. Install Essential & [PixinForge](https://github.com/AnotherPillow/PixinForge)
 2. Run the game once with Essential
 3. Remove the original Essential jar from your mods folder
 4. Copy the actual Essential mod from `<minecraft dir>/essential` (it'll be a .jar and be something like `Essential (forge_1.8.9).jar`) to your mods folder.
