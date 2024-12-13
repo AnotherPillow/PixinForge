@@ -12,6 +12,8 @@ This is a (1.8) forge port of [Pixin](https://github.com/AnotherPillow/Pixin). I
 4. Copy the actual Essential mod from `<minecraft dir>/essential` (it'll be a .jar and be something like `Essential (forge_1.8.9).jar`) to your mods folder.
 5. Run the game
 
+Alternatively, if you have any mods that require Essential and install it automatically, you can simply use one of those without having to copy the jar from the essential folder.
+
 ## Clarifications of Licenses
 
 - No, I'm not associated with Pixie or Essential.
