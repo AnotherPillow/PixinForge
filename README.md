@@ -1,5 +1,11 @@
 # PixinForge
 
+## No Longer Supported
+
+Use [Nixie](https://github.com/AnotherPillow/Nixie/releases/tag/v1.0.0) instead. 
+
+<hr>
+
 [Pixin](https://github.com/AnotherPillow/Pixin) + [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/) = PixinForge
 
 This is a (1.8) forge port of [Pixin](https://github.com/AnotherPillow/Pixin). Initial gradle configuration based on [ModHider](https://github.com/Fabi019/ForgeModHider).
